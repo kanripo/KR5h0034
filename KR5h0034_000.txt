@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 03:04:27.859439
+# -*- mode: mandoku-view -*-
 #+TITLE: 消搖墟經
-#+PROPERTY: DZID  DZ1465
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，35—367 二卷 續道藏
+#+DATE: 2015-08-29 03:04:29
+#+PROPERTY:  LASTPB <PB KR5h0034_SJB_002-350377a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶¶¶¶¶¶
+
